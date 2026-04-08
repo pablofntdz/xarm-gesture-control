@@ -17,7 +17,7 @@ The system runs across three concurrent threads communicating through a shared, 
 The system also supports a **webcam-only mode** for developing and testing gesture recognition without any hardware.
 
 <div align="center">
-  <img src="docs/robot_pickplace_video.gif" width="240" style="vertical-align: middle;"/>
+  <img src="docs/video_robot_gesture.gif" width="240" style="vertical-align: middle;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="docs/gesture_video.gif" width="400" style="vertical-align: middle;"/>
 </div>
